@@ -378,8 +378,8 @@ font-family: 'Lobster', cursive;
 }
 
 .polaroid {
-  width: 240x;
-  height: 220px;
+  width: 300x;
+  height: 300px;
   position: absolute;
   float: left;
   background: #1e1c18;
@@ -405,8 +405,8 @@ font-family: 'Lobster', cursive;
           backface-visibility: hidden;
   background-position: center;
   background-size: cover;
-  -webkit-animation: fade-in 20s ease-in;
-          animation: fade-in 20s ease-in;
+  -webkit-animation: fade-in 5s ease-in;
+          animation: fade-in 5s ease-in;
   -webkit-animation-iteration-count: 1;
           animation-iteration-count: 1;
 }
